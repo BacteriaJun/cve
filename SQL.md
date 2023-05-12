@@ -1,8 +1,4 @@
-# Covid-19 Contact Tracing System v1.0 has SQL injection
-
 BUG_Author: TangJun
-
-vendors: https://www.sourcecodester.com/php/14728/covid-19-contact-tracing-system-web-app-qr-code-scanning-using-php-source-code.html
 
 Vulnerability url: /cts_qr/admin/establishment/manage.php?id.
 
